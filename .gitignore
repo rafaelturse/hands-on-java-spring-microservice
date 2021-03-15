@@ -26,4 +26,4 @@ tools/
 hs_err_pid*
 
 # eclipse
-/.metadata/
+workspace/.metadata/
